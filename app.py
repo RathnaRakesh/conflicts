@@ -1,7 +1,7 @@
 # Add two numbers
 
 a = 20
-b = 20
+b = 60
 
 
 
