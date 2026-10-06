@@ -1,6 +1,6 @@
 # Add two numbers
 
-a = 10
+a = 20
 b = 20
 
 sum = a + b
