@@ -6,8 +6,8 @@ b = 20
 
 
 
+sum = a + b
 
-sum = a - b
 
 
 print("Sum =", sum)
